@@ -21,11 +21,12 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
+
 NAME : BHUVANESHWAR V
+
 REG NO: 212221240009
 ```
-py
-
+PY
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
